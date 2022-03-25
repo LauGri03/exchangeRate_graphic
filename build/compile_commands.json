@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/laurent/C++Projects/exchangeRate_graphic/build",
+  "command": "/usr/bin/clang++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/laurent/C++Projects/exchangeRate_graphic/./src -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.1 -isystem /opt/homebrew/include/wx-3.1 -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -std=gnu++11 -o CMakeFiles/exchangeRate.dir/src/main.cpp.o -c /Users/laurent/C++Projects/exchangeRate_graphic/src/main.cpp",
+  "file": "/Users/laurent/C++Projects/exchangeRate_graphic/src/main.cpp"
+},
+{
+  "directory": "/Users/laurent/C++Projects/exchangeRate_graphic/build",
+  "command": "/usr/bin/clang++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/laurent/C++Projects/exchangeRate_graphic/./src -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.1 -isystem /opt/homebrew/include/wx-3.1 -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -std=gnu++11 -o CMakeFiles/exchangeRate.dir/src/frame.cpp.o -c /Users/laurent/C++Projects/exchangeRate_graphic/src/frame.cpp",
+  "file": "/Users/laurent/C++Projects/exchangeRate_graphic/src/frame.cpp"
+},
+{
+  "directory": "/Users/laurent/C++Projects/exchangeRate_graphic/build",
+  "command": "/usr/bin/clang++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/laurent/C++Projects/exchangeRate_graphic/./src -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.1 -isystem /opt/homebrew/include/wx-3.1 -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=12.0 -std=gnu++11 -o CMakeFiles/exchangeRate.dir/src/exchanger.cpp.o -c /Users/laurent/C++Projects/exchangeRate_graphic/src/exchanger.cpp",
+  "file": "/Users/laurent/C++Projects/exchangeRate_graphic/src/exchanger.cpp"
+}
+]
